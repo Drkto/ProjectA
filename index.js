@@ -1,1 +1,1 @@
-console.log('Что-то Новенькое');
+console.log('Element');
